@@ -1,0 +1,44 @@
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\PublishingActor.Interfaces.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\PublishingActor.Interfaces.pdb
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Actors.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Newtonsoft.Json.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\ServiceFabric.PubSubActors.Interfaces.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\ServiceFabricServiceModel.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\System.Fabric.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\System.Fabric.Strings.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Actors.xml
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Newtonsoft.Json.xml
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\System.Fabric.xml
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\obj\x64\Debug\PublishingActor.Interfaces.csprojResolveAssemblyReference.cache
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\obj\x64\Debug\PublishingActor.Interfaces.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PublishingActor.Interfaces\obj\x64\Debug\PublishingActor.Interfaces.pdb
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\PublishingActor.Interfaces.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\PublishingActor.Interfaces.pdb
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Actors.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\ServiceFabric.PubSubActors.Interfaces.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\ServiceFabricServiceModel.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\System.Fabric.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\System.Fabric.Strings.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Actors.xml
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\bin\x64\Debug\System.Fabric.xml
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\obj\x64\Debug\PublishingActor.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\obj\x64\Debug\PublishingActor.Interfaces.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PublishingActor.Interfaces\obj\x64\Debug\PublishingActor.Interfaces.pdb

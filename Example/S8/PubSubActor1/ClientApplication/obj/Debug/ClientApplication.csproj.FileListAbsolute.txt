@@ -1,0 +1,99 @@
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\ClientApplication.exe.config
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\ClientApplication.exe
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\ClientApplication.pdb
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Actors.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Data.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Services.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Services.Wcf.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\Newtonsoft.Json.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\PublishingActor.Interfaces.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\ServiceFabric.PubSubActors.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\ServiceFabric.PubSubActors.Interfaces.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\ServiceFabricServiceModel.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\SubscribingActors.Interfaces.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\System.Collections.Immutable.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\System.Fabric.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\System.Fabric.Strings.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\PublishingActor.Interfaces.pdb
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\SubscribingActors.Interfaces.pdb
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Actors.xml
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Data.xml
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Services.xml
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Services.Wcf.xml
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\Newtonsoft.Json.xml
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\System.Collections.Immutable.xml
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\bin\Debug\System.Fabric.xml
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\obj\Debug\ClientApplication.csprojResolveAssemblyReference.cache
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\obj\Debug\ClientApplication.exe
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\ClientApplication\obj\Debug\ClientApplication.pdb
+D:\PubSubActor1\ClientApplication\bin\Debug\ClientApplication.exe.config
+D:\PubSubActor1\ClientApplication\obj\Debug\ClientApplication.exe
+D:\PubSubActor1\ClientApplication\obj\Debug\ClientApplication.pdb
+D:\PubSubActor1\ClientApplication\bin\Debug\ClientApplication.exe
+D:\PubSubActor1\ClientApplication\bin\Debug\ClientApplication.pdb
+D:\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Actors.dll
+D:\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Data.dll
+D:\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+D:\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+D:\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+D:\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Services.dll
+D:\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Services.Wcf.dll
+D:\PubSubActor1\ClientApplication\bin\Debug\Newtonsoft.Json.dll
+D:\PubSubActor1\ClientApplication\bin\Debug\PublishingActor.Interfaces.dll
+D:\PubSubActor1\ClientApplication\bin\Debug\ServiceFabric.PubSubActors.dll
+D:\PubSubActor1\ClientApplication\bin\Debug\ServiceFabric.PubSubActors.Interfaces.dll
+D:\PubSubActor1\ClientApplication\bin\Debug\ServiceFabricServiceModel.dll
+D:\PubSubActor1\ClientApplication\bin\Debug\SubscribingActors.Interfaces.dll
+D:\PubSubActor1\ClientApplication\bin\Debug\System.Collections.Immutable.dll
+D:\PubSubActor1\ClientApplication\bin\Debug\System.Fabric.dll
+D:\PubSubActor1\ClientApplication\bin\Debug\System.Fabric.Strings.dll
+D:\PubSubActor1\ClientApplication\bin\Debug\PublishingActor.Interfaces.pdb
+D:\PubSubActor1\ClientApplication\bin\Debug\SubscribingActors.Interfaces.pdb
+D:\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Actors.xml
+D:\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Data.xml
+D:\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+D:\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Services.xml
+D:\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Services.Wcf.xml
+D:\PubSubActor1\ClientApplication\bin\Debug\Newtonsoft.Json.xml
+D:\PubSubActor1\ClientApplication\bin\Debug\System.Collections.Immutable.xml
+D:\PubSubActor1\ClientApplication\bin\Debug\System.Fabric.xml
+D:\PubSubActor1\ClientApplication\obj\Debug\ClientApplication.csprojResolveAssemblyReference.cache
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\ClientApplication.exe.config
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\obj\Debug\ClientApplication.pdb
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Actors.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Data.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Services.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Services.Wcf.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\ServiceFabric.PubSubActors.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\ServiceFabric.PubSubActors.Interfaces.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\ServiceFabricServiceModel.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\System.Fabric.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\System.Fabric.Strings.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Actors.xml
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Data.xml
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Services.xml
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\Microsoft.ServiceFabric.Services.Wcf.xml
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\System.Fabric.xml
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\obj\Debug\ClientApplication.csprojResolveAssemblyReference.cache
+C:\Users\HACKER\Desktop\New folder\S5\PubSubActor1\ClientApplication\bin\Debug\ClientApplication.exe.config
+C:\Users\HACKER\Desktop\New folder\S5\PubSubActor1\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Users\HACKER\Desktop\New folder\S5\PubSubActor1\ClientApplication\obj\Debug\ClientApplication.pdb
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\DataContracts.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\DataContracts.pdb
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\SubscribingActors.Interfaces.dll
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\ClientApplication\bin\Debug\SubscribingActors.Interfaces.pdb

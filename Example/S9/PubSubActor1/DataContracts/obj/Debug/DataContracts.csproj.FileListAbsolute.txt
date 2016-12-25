@@ -1,0 +1,10 @@
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\DataContracts\bin\Debug\DataContracts.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\DataContracts\bin\Debug\DataContracts.pdb
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\DataContracts\obj\Debug\DataContracts.csprojResolveAssemblyReference.cache
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\DataContracts\obj\Debug\DataContracts.dll
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\DataContracts\obj\Debug\DataContracts.pdb
+D:\PubSubActor1\DataContracts\bin\Debug\DataContracts.dll
+D:\PubSubActor1\DataContracts\bin\Debug\DataContracts.pdb
+D:\PubSubActor1\DataContracts\obj\Debug\DataContracts.csprojResolveAssemblyReference.cache
+D:\PubSubActor1\DataContracts\obj\Debug\DataContracts.dll
+D:\PubSubActor1\DataContracts\obj\Debug\DataContracts.pdb

@@ -1,0 +1,5 @@
+E:\BizRunTime\A.BizRunTime\BizRun Workspace\dec17 Fabric PubSub\PubSubActor1\PubSubActor1\obj\x64\Debug\PubSubActor1.sfprojResolveAssemblyReference.cache
+D:\PubSubActor1\PubSubActor1\obj\x64\Debug\PubSubActor1.sfprojResolveAssemblyReference.cache
+C:\Users\HACKER\Documents\Visual Studio 2015\Projects\PubSubActor1\PubSubActor1\obj\x64\Debug\PubSubActor1.sfprojResolveAssemblyReference.cache
+C:\Users\HACKER\Desktop\New folder\S5\PubSubActor1\PubSubActor1\obj\x64\Debug\PubSubActor1.sfprojResolveAssemblyReference.cache
+C:\Users\HACKER\Desktop\New folder\S11\PubSubActor1\PubSubActor1\obj\x64\Debug\PubSubActor1.sfprojResolveAssemblyReference.cache
